@@ -66,9 +66,9 @@
         <mxCell id="YzzFz2zKbulYp8ADT2DB-18" value="local storage&lt;div&gt;(levelDB&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="424" y="34" width="60" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="YzzFz2zKbulYp8ADT2DB-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="YzzFz2zKbulYp8ADT2DB-17" target="YzzFz2zKbulYp8ADT2DB-18">
+        <mxCell id="YzzFz2zKbulYp8ADT2DB-19" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;" edge="1" parent="1" target="YzzFz2zKbulYp8ADT2DB-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="193" y="123" as="sourcePoint" />
+            <mxPoint x="349" y="156" as="sourcePoint" />
             <mxPoint x="386" y="121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
